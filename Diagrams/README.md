@@ -61,7 +61,7 @@
 ## 3.3 Отображение списка CI-сценариев <a name="3.3"></a>
 ![](../Diagrams/Sequence/Show_CI.png)  
 ## 3.4 Поиск CI-сценария <a name="3.4"></a>
-![](../Diagrams/Sequence/Search.png)  
+![](../Diagrams/Sequence/Seacrh.png)  
 ## 3.5 Создание CI-сценария <a name="3.5"></a>
 ![](../Diagrams/Sequence/Create_CI.png)  
 ## 3.6 Создание стадии/задачи CI-сценария <a name="3.6"></a>
