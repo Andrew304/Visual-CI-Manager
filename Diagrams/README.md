@@ -36,6 +36,14 @@
 3.8 [Удаление стадии/задачи CI-сценария](#3.8)  
 3.9 [Сохранение изменений CI-сценария](#3.9)  
 3.10 [Получение исходного CI-сценария](#3.10)  
+4. [Диаграммы состояний](#4)
+4.1 [Регистрация аккаунта](#4.1)  
+4.2 [Авторизация](#4.2)  
+4.3 [Отображение списка CI-сценариев](#4.3)  
+4.4 [Поиск CI-сценария](#4.4)  
+4.5 [Создание CI-сценария](#4.5)  
+4.6 [Создание стадии/задачи CI-сценария](#4.6)  
+4.7 [Удаление стадии/задачи CI-сценария](#4.7)  
 
 # 1. Диаграмма вариантов использования <a name="1"></a>
 
@@ -193,7 +201,9 @@
 ![](../Diagrams/Activity/Export_CI.png)  
 ## 2.11 Выход из аккаунта <a name="2.11"></a>
 ![](../Diagrams/Activity/Quit.png)  
+
 # 3. Диаграммы последовательности <a name="3"></a>
+
 ## 3.1 Регистрация аккаунта <a name="3.1"></a>
 ![](../Diagrams/Sequence/SignUp.png)  
 ## 3.2 Авторизация <a name="3.2"></a>
@@ -214,3 +224,26 @@
 ![](../Diagrams/Sequence/Save_changes.png)  
 ## 3.10 Получение исходного CI-сценария <a name="3.10"></a>
 ![](../Diagrams/Sequence/Export.png)  
+
+# 4. Диаграммы состояний <a name="4"></a>
+
+Данные диаграммы были созданы на основании следующих Mockup's:  
+* [Окно регистрации](https://github.com/Andrew304/Visual-CI-Manager/blob/master/Mockup's/Sign_Up_Page.png)  
+* [Окно авторизации](https://github.com/Andrew304/Visual-CI-Manager/blob/master/Mockup's/Sign_In_Page.png)  
+* [Окно личного кабинета пользователя](https://github.com/Andrew304/Visual-CI-Manager/blob/master/Mockup's/All_CI_Page.png)  
+* [Окно редактирования](https://github.com/Andrew304/Visual-CI-Manager/blob/master/Mockup's/Edit_Page.png)  
+
+## 4.1 Регистрация аккаунта <a name="4.1"></a>
+![](../Diagrams/State/Registration_state.png)  
+## 4.2 Авторизация <a name="4.2"></a>
+![](../Diagrams/State/SignIn_state.png)  
+## 4.3 Отображение списка CI-сценариев <a name="4.3"></a>
+![](../Diagrams/State/Show_CI_List_state.png)  
+## 4.4 Поиск CI-сценария <a name="4.4"></a>
+![](../Diagrams/State/Search_state.png)  
+## 4.5 Создание CI-сценария <a name="4.5"></a>
+![](../Diagrams/State/Create_CI_state.png)  
+## 4.6 Создание стадии/задачи CI-сценария <a name="4.6"></a>
+![](../Diagrams/State/Create_task_stage_state.png)  
+## 4.7 Удаление стадии/задачи CI-сценария <a name="4.7"></a>
+![](../Diagrams/State/Delete_task_stage_state.png)  
