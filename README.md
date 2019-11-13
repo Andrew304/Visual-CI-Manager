@@ -1,14 +1,19 @@
 # Visual CI Manager
 Веб-приложение **"Visual CI Manager"** предназначено для автоматизации процесса визуального создания и  модификации CI-сценариев.
 
-# Используемые технологии
+## Используемые технологии
 
 При разработке Frontend части используются веб-технологии HTML/CSS/JS(библиотека React). При разработке Backend части используется язык программирования Python и фреймворк Django.
 
-# Проектирование
+## Проектирование
 
 [SRS](https://github.com/Andrew304/Visual-CI-Manager/blob/master/Documents/SRS.md)  
 [Mockup's](https://github.com/Andrew304/Visual-CI-Manager/tree/master/Mockup's)  
 [Diagrams](https://github.com/Andrew304/Visual-CI-Manager/tree/master/Diagrams)  
+
+## Реализация
+
+[Frontend репозиторий](https://github.com/Andrew304/vcim-frontend)  
+[Backend репозиторий](https://github.com/Andrew304/vcim-backend)  
 
 Разработчик Демко А.А. гр 750503  
